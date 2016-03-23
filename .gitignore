@@ -1,0 +1,5 @@
+venv.txt
+*.pyc
+*.log
+*.log.*
+*.tar.gz
