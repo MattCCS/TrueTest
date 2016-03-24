@@ -1,4 +1,11 @@
 venv.txt
+
+.DS_Store
+
+build/
+dist/
+*.egg-info
+
 *.pyc
 *.log
 *.log.*
